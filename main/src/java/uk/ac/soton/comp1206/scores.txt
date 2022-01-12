@@ -1,0 +1,10 @@
+Player0:10000
+Player1:9000
+Player2:8000
+Player3:7000
+Player4:6000
+Player5:5000
+Player6:4000
+Player7:3000
+Player8:2000
+Player9:1000
