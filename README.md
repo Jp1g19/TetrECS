@@ -1,6 +1,6 @@
 # TetrECS
 
-![Logo](https://raw.githubusercontent.com/Jp1g19/TetrECS/main/src/resources/images/logo2.png)
+![Logo](https://raw.githubusercontent.com/Jp1g19/TetrECS/main/TetrECS/src/resources/images/logo2.png)
 
 ## Coursework project for module COMP1206 Programming 2
 
