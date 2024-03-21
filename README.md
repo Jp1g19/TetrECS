@@ -2,11 +2,11 @@
    <img src="https://raw.githubusercontent.com/Jp1g19/TetrECS/main/TetrECS/src/resources/images/logo2.png" width="230"/>
 </p>  
 
-<h1 align="center">TetrECS</h1>
+<h1 align="center">Tetris Clone</h1>
 
-<h1 align="center">Coursework project for module COMP1206 Programming 2</h1>
+<h1 align="center">Coursework project for programming module</h1>
 
-TetrECS is an adaptation of the popular game called Tetris created with JavaFX. With new and altered blocks, a multiplayer mode based on local hosted games aswell as local and online highscores, this project was created by myself based on a raw template provided for the coursework.
+The game is an adaptation of the popular game called Tetris created with JavaFX. With new and altered blocks, a multiplayer mode based on local hosted games aswell as local and online highscores, this project was created by myself based on a raw template provided for the coursework.
 
 
 <h1 align="center">Demo Video</h1>
